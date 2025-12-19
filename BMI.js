@@ -1,7 +1,4 @@
-function get_bmi(weight,height) {
-    var bmi =  parseFloat(weight / (height * height)).toFixed(2);
+function bmiCalculator(weight,height) {
+    var bmi =  Math.floor(weight / (height * height))
     return bmi
 }
-
-get_bmi(88,1.7);
-    
