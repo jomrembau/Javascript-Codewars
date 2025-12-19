@@ -3,3 +3,4 @@ function bmiCalculator(weight,height) {
     return bmi
 }
 
+console.log(bmiCalculator(85,1.7));
