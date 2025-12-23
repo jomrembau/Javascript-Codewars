@@ -5,7 +5,8 @@ while (numberOfBottles > 1) {
     numberOfBottles --;
     console.log("Take one down and pass it around, " + numberOfBottles + " bottles of beer on the wall.\n");
 }
-console.log("1 more bottle of beer on the wall, no more bottles of beer.")
+console.log("1 more bottle of beer on the wall, 1 more bottle of beer.")
 console.log("Take one down and pass it around, no more bottles of beer on the wall.\n")
 console.log("No more bottles of beer on the wall, no more bottles of beer.")
 console.log("Go to the store and buy some more, 99 bottles of beer on the wall.")
+
