@@ -1,3 +1,4 @@
 function booleanToString(b){
-  return String(b)
+  return String(b) 
+
 }
